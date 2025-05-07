@@ -1,0 +1,33 @@
+{
+  "font": "Times New Roman",
+  "font_size": 12,
+
+  "main_body": {
+    "font_color": 12,           // numeric color code provided by user
+    "spacing": {
+      "within_sections": "single",
+      "between_sections": "extra"
+    }
+  },
+
+  "section_titles": {
+    "bold": true,
+    "underline": true
+  },
+
+  "header": {
+    "font": "Times New Roman",
+    "size": 12,
+    "text": "UNCLASSIFIED",
+    "color": "green",
+    "position": "center"
+  },
+
+  "footer": {
+    "font": "Times New Roman",
+    "size": 12,
+    "text": "UNCLASSIFIED",
+    "color": "green",
+    "position": "center"
+  }
+}
